@@ -1,38 +1,50 @@
 [
-  {
-    "id": "srv1",
-    "title": "[SERVER] test 1",
-    "thumbnailUrl": "https://i.pinimg.com/736x/51/0f/17/510f17691fcb1392247ff5679ae319ed.jpg",
-    "fullUrl": "https://i.pinimg.com/736x/51/0f/17/510f17691fcb1392247ff5679ae319ed.jpg",
-    "tags": ["server", "nature", "canyon"],
-    "category": "animale",
-    "lockscreenOptimized": true,
-    "depthEffect": false,
-    "width": 1290,
-    "height": 2796
-  },
-  {
-    "id": "srv2",
-    "title": "[SERVER] test 2",
-    "thumbnailUrl": "https://i.pinimg.com/736x/8d/d0/47/8dd047b95c46c21fd6b191f8cb89c17a.jpg",
-    "fullUrl": "https://i.pinimg.com/736x/8d/d0/47/8dd047b95c46c21fd6b191f8cb89c17a.jpg",
-    "tags": ["server", "dark", "space"],
-    "category": "dark",
-    "lockscreenOptimized": true,
-    "depthEffect": true,
-    "width": 1290,
-    "height": 2796
-  },
-  {
-    "id": "srv3",
-    "title": "[SERVER] test 3",
-    "thumbnailUrl": "https://i.pinimg.com/736x/10/de/28/10de283a432aa8d875bbc3f37e053cbc.jpg",
-    "fullUrl": "https://i.pinimg.com/736x/10/de/28/10de283a432aa8d875bbc3f37e053cbc.jpg",
-    "tags": ["server", "minimal", "abstract"],
-    "category": "minimal",
-    "lockscreenOptimized": true,
-    "depthEffect": false,
-    "width": 1290,
-    "height": 2796
-  }
+    {
+        "id": "srv1",
+        "title": "casa",
+        "thumbnailUrl": "https://i.pinimg.com/736x/85/0d/4e/850d4eb5d8cfd55ed3a5c88e45d7d12b.jpg",
+        "fullUrl": "https://i.pinimg.com/736x/85/0d/4e/850d4eb5d8cfd55ed3a5c88e45d7d12b.jpg",
+        "tags": [
+            "server",
+            "nature",
+            "canyon"
+        ],
+        "category": "City",
+        "lockscreenOptimized": true,
+        "depthEffect": false,
+        "width": 1290,
+        "height": 2796
+    },
+    {
+        "id": "srv2",
+        "title": "lion",
+        "thumbnailUrl": "https://i.pinimg.com/736x/bc/a1/e1/bca1e1f2c6513dc628915a407b366aaf.jpg",
+        "fullUrl": "https://i.pinimg.com/736x/bc/a1/e1/bca1e1f2c6513dc628915a407b366aaf.jpg",
+        "tags": [
+            "server",
+            "dark",
+            "space"
+        ],
+        "category": "animal",
+        "lockscreenOptimized": true,
+        "depthEffect": true,
+        "width": 1290,
+        "height": 2796
+    },
+    {
+        "id": "srv3",
+        "title": "devloper",
+        "thumbnailUrl": "https://i.pinimg.com/736x/cb/e0/dd/cbe0ddce51b3fcfe141556085dc41b2b.jpg",
+        "fullUrl": "https://i.pinimg.com/736x/cb/e0/dd/cbe0ddce51b3fcfe141556085dc41b2b.jpg",
+        "tags": [
+            "server",
+            "minimal",
+            "abstract"
+        ],
+        "category": "work",
+        "lockscreenOptimized": true,
+        "depthEffect": false,
+        "width": 1290,
+        "height": 2796
+    }
 ]
