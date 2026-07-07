@@ -1,0 +1,16 @@
+[
+    {
+        "id": "nature",
+        "name": "Nature",
+        "emoji": "🌿",
+        "coverUrl": "https://.../nature.jpg",
+        "wallpaperCount": 6
+    },
+    {
+        "id": "abstract",
+        "name": "Abstract",
+        "emoji": "🎨",
+        "coverUrl": "https://.../abstract.jpg",
+        "wallpaperCount": 6
+    }
+]
