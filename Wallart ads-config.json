@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "ads_enabled": false,
+    "ads_enabled": true,
     "kill_switch": false,
     "networks": {
         "admob_bidding": true,
