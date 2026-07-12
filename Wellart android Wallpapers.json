@@ -78,5 +78,21 @@
         "depthEffect": false,
         "width": 1290,
         "height": 2796
+    },
+    {
+        "id": "srv5",
+        "title": "devloper",
+        "thumbnailUrl": "https://i.pinimg.com/control1/736x/8b/1a/1d/8b1a1d889ffdce078580e1a462065e87.jpg",
+        "fullUrl": "https://i.pinimg.com/control1/736x/8b/1a/1d/8b1a1d889ffdce078580e1a462065e87.jpg",
+        "tags": [
+            "server",
+            "minimal",
+            "abstract"
+        ],
+        "category": "dev",
+        "lockscreenOptimized": true,
+        "depthEffect": false,
+        "width": 1290,
+        "height": 2796
     }
 ]
