@@ -1,0 +1,45 @@
+{
+    "version": "1.0.0",
+    "ads_enabled": false,
+    "kill_switch": false,
+    "networks": {
+        "admob_bidding": true,
+        "meta_audience_network": true,
+        "unity_ads": true
+    },
+    "app_keys": {
+        "ios": "YOUR_IOS_LEVELPLAY_APP_KEY",
+        "android": "272614d6d"
+    },
+    "placements": {
+        "banner": {
+            "enabled": true,
+            "screens": [
+                "home",
+                "explore"
+            ],
+            "ad_unit_id": {
+                "ios": "YOUR_IOS_BANNER_AD_UNIT_ID",
+                "android": "0o32bkevh5fsky5o"
+            }
+        },
+        "interstitial": {
+            "enabled": true,
+            "interstitial_every_n_wallpapers": 4,
+            "min_seconds_between_interstitials": 60,
+            "ad_unit_id": {
+                "ios": "YOUR_IOS_INTERSTITIAL_AD_UNIT_ID",
+                "android": "vzeychd6dm659jgz"
+            }
+        },
+        "rewarded": {
+            "enabled": true,
+            "reward": "unlock_one_premium_wallpaper",
+            "ad_unit_id": {
+                "ios": "YOUR_IOS_REWARDED_AD_UNIT_ID",
+                "android": "v51s8qqmy5d2i6f7"
+            }
+        }
+    },
+    "att_required_before_bidding": true
+}
