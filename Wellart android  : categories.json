@@ -19,5 +19,12 @@
         "emoji": "🖥️",
         "coverUrl": "https://i.pinimg.com/736x/04/4c/35/044c351f544decbfae88619a08921649.jpg",
         "wallpaperCount": 6
+    },
+    {
+        "id": "dev",
+        "name": "dev",
+        "emoji": "🖥️",
+        "coverUrl": "https://i.pinimg.com/control1/1200x/f7/26/62/f72662c9ccf1c7d437827a374cb8d38e.jpg",
+        "wallpaperCount": 6
     }
 ]
