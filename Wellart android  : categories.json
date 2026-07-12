@@ -1,0 +1,23 @@
+[
+    {
+        "id": "city",
+        "name": "City",
+        "emoji": "🌁",
+        "coverUrl": "https://i.pinimg.com/1200x/f1/55/de/f155dea519590b362661fb772841db2f.jpg",
+        "wallpaperCount": 6
+    },
+    {
+        "id": "animal",
+        "name": "Animal",
+        "emoji": "🐶",
+        "coverUrl": "https://i.pinimg.com/736x/73/8a/97/738a9729afee93fcf81e7088f0fc1181.jpg",
+        "wallpaperCount": 6
+    },
+    {
+        "id": "work",
+        "name": "work",
+        "emoji": "🖥️",
+        "coverUrl": "https://i.pinimg.com/736x/04/4c/35/044c351f544decbfae88619a08921649.jpg",
+        "wallpaperCount": 6
+    }
+]

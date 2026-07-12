@@ -1,0 +1,50 @@
+[
+    {
+        "id": "srv1",
+        "title": "casa",
+        "thumbnailUrl": "https://i.pinimg.com/736x/85/0d/4e/850d4eb5d8cfd55ed3a5c88e45d7d12b.jpg",
+        "fullUrl": "https://i.pinimg.com/736x/85/0d/4e/850d4eb5d8cfd55ed3a5c88e45d7d12b.jpg",
+        "tags": [
+            "server",
+            "nature",
+            "canyon"
+        ],
+        "category": "City",
+        "lockscreenOptimized": true,
+        "depthEffect": false,
+        "width": 1290,
+        "height": 2796
+    },
+    {
+        "id": "srv2",
+        "title": "lion",
+        "thumbnailUrl": "https://i.pinimg.com/736x/bc/a1/e1/bca1e1f2c6513dc628915a407b366aaf.jpg",
+        "fullUrl": "https://i.pinimg.com/736x/bc/a1/e1/bca1e1f2c6513dc628915a407b366aaf.jpg",
+        "tags": [
+            "server",
+            "dark",
+            "space"
+        ],
+        "category": "animal",
+        "lockscreenOptimized": true,
+        "depthEffect": true,
+        "width": 1290,
+        "height": 2796
+    },
+    {
+        "id": "srv3",
+        "title": "devloper",
+        "thumbnailUrl": "https://i.pinimg.com/736x/cb/e0/dd/cbe0ddce51b3fcfe141556085dc41b2b.jpg",
+        "fullUrl": "https://i.pinimg.com/736x/cb/e0/dd/cbe0ddce51b3fcfe141556085dc41b2b.jpg",
+        "tags": [
+            "server",
+            "minimal",
+            "abstract"
+        ],
+        "category": "work",
+        "lockscreenOptimized": true,
+        "depthEffect": false,
+        "width": 1290,
+        "height": 2796
+    }
+]
