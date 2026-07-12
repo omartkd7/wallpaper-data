@@ -46,5 +46,21 @@
         "depthEffect": false,
         "width": 1290,
         "height": 2796
+    },
+    {
+        "id": "srv3",
+        "title": "devloper",
+        "thumbnailUrl": "https://i.pinimg.com/736x/22/a6/5d/22a65df0ff1ff1da487244b659470b09.jpg",
+        "fullUrl": "https://i.pinimg.com/736x/22/a6/5d/22a65df0ff1ff1da487244b659470b09.jpg",
+        "tags": [
+            "server",
+            "minimal",
+            "abstract"
+        ],
+        "category": "work",
+        "lockscreenOptimized": true,
+        "depthEffect": false,
+        "width": 1290,
+        "height": 2796
     }
 ]
